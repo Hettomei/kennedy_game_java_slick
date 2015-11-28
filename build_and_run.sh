@@ -2,6 +2,7 @@
 
 echo "Compiling"
 mkdir build
+mkdir build/screenshots
 cp -r sprites build/
 javac -cp "./lib/*:." principal/StartGame.java -d build -encoding UTF8
 
