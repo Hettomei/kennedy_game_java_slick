@@ -5,7 +5,7 @@ Attempt to create a game representing what was life in a flat called 'kennedy' i
 
 # Compil and run
 ``` bash
-bash build_and_run.sh
+./build_and_run.sh
 ```
 
 # Screenshot
@@ -15,6 +15,7 @@ Only tested on
 
  + mac 10.9.5
  + java version "1.6.0_65"
+ + lwgjl 2.9
 
 # LICENSE
 
